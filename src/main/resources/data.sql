@@ -1,0 +1,1 @@
+INSERT INTO account (name, balance) VALUES ('A1',100),('A2',200),('A3',300),('A4',400),('A5',500);
